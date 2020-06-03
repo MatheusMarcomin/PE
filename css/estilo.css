@@ -1,3 +1,22 @@
+.texto {
+    text-align: center;
+}
+
+.banner, .subBanner, .textoSubBanner, .rodape {
+    width: 100%;
+    height: auto;
+}
+
+.banner img {
+    width: 100%;
+    height: 450px;
+}
+
+.subBanner img {
+    width: 100%;
+    height: 450px;
+}
+
 .img01{
     height: 500px;
     width: 100%
