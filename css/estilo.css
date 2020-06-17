@@ -35,7 +35,7 @@
 }
 
 .img03{
-    width: 160%
+    position: relative;
 }
 
 .icones{
@@ -46,4 +46,12 @@
 .corLinks{
     margin-top: 20%;
     color: #5500ff;
+}
+
+@media(max-width:1024px){
+    .margin02{
+        width: 25%;
+        height: 25%;
+        margin: 0% 35% 0 35%;
+    }
 }
